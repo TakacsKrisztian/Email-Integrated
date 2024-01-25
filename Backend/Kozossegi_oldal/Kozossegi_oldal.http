@@ -1,0 +1,6 @@
+@Kozossegi_oldal_HostAddress = http://localhost:5144
+
+GET {{Kozossegi_oldal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

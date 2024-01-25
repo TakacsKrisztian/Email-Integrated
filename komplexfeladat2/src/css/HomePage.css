@@ -1,0 +1,239 @@
+
+.postcard{
+  position: relative;
+  border-radius: 40px;
+  margin: auto;
+  max-height: 31rem;
+  max-width: 20rem;
+  overflow: hidden;
+}
+.posttext {
+  position: relative;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 350px;
+  text-overflow: ellipsis;
+  color: black;
+  margin: auto;
+
+}
+.postauthor{
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.postcategory{
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.posttitle{
+  font-size: 1.5rem;
+}
+.postcontent{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%;
+}
+.postupload{
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+.categoryname{
+  height: 1rem;
+}
+
+.card-image{
+  text-align: center;
+  margin: 1rem auto;
+  padding:auto;
+  border-radius: 20px;
+  max-height: 90%;
+  max-width: 90%;
+  object-fit: cover;
+  overflow: hidden;
+}
+.categorytitle{
+  height: 5rem;
+  position: relative;
+  font-weight: 800;
+}
+.formtextthings{
+  background-color:'#0A2234';
+  color: 'white';
+}
+
+
+
+
+
+/*
+.morebuttonrectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  background-color: rgba(48, 120, 171, 0.54);
+  backdrop-filter: blur(4.5px);
+  width: 350px;
+  height: 325px;
+}
+.moreicon {
+  position: absolute;
+  top: 119px;
+  left: 146px;
+  width: 58px;
+  height: 58px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.moretext {
+  position: absolute;
+  top: 176px;
+  left: 89px;
+  font-weight: 800;
+}
+.morebutton {
+  position: absolute;
+  top: 79px;
+  left: 1422px;
+  width: 350px;
+  height: 325px;
+  text-align: left;
+}
+.postimage-icon {
+  top: 0;
+  border-radius: 40px;
+  height: 325px;
+  object-fit: cover;
+}
+.postcontentbox,
+.postimage-icon,
+.postimageoverlay {
+  position: absolute;
+  left: 0;
+  width: 350px;
+}
+.postimageoverlay {
+  top: 0;
+  border-radius: 40px;
+  background: linear-gradient(
+    180deg,
+    rgba(11, 50, 78, 0),
+    rgba(6, 15, 22, 0.69)
+  );
+  height: 325px;
+}
+.postcontentbox {
+  top: 177px;
+  border-radius: 0 0 40px 40px;
+  background-color: #060f16;
+  height: 148px;
+  opacity: 0.98;
+}
+.posttitle {
+  position: absolute;
+  top: 148px;
+  left: 7px;
+  font-weight: 800;
+  text-shadow: -1px 1px 6.6px rgba(0, 0, 0, 0.25);
+}
+.postcontent {
+  position: absolute;
+  top: 186px;
+  left: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 326px;
+}
+.postcontentoverlay {
+  position: absolute;
+  top: 190px;
+  left: 0;
+  border-radius: 0 0 40px 40px;
+  background: linear-gradient(180deg, rgba(6, 15, 22, 0), #060f16 62.4%);
+  width: 350px;
+  height: 135px;
+}
+.profiledname,
+.profileusername {
+  position: absolute;
+  top: 283px;
+  left: 222px;
+  font-size: 12px;
+  font-weight: 800;
+}
+.profileusername {
+  top: 298px;
+  left: 256px;
+  font-size: 8px;
+  font-weight: 300;
+}
+.post,
+.post1,
+.post2 {
+  position: absolute;
+  top: 79px;
+  left: 18px;
+  width: 350px;
+  height: 325px;
+}
+.post1,
+.post2 {
+  top: 88px;
+  left: 486px;
+}
+.post2 {
+  top: 79px;
+  left: 954px;
+}
+.categorytitle1 {
+  position: absolute;
+  top: 6px;
+  left: 77px;
+  font-weight: 800;
+}
+.categoryicon,
+.categorytitle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 60px;
+}
+.categoryicon {
+  width: 60px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.categorytitle {
+  width: 377px;
+  text-align: left;
+  font-size: 40px;
+}
+.category,
+.postcategorya {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1772px;
+  height: 413px;
+}
+.postcategorya {
+  top: 79px;
+  left: 69px;
+}
+.homepage {
+  position: relative;
+  background-color: #0b324e;
+  width: 100%;
+  height: 1587px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: Inter;
+}
+*/
